@@ -30,14 +30,11 @@ The GCP version of the IP geocoding script is designed to run as a Google Cloud 
 
 ## Repository Structure
 
-\```
-.
 ├── geocode_ips.py             # Local version of the IP geocoding script
 ├── process_csv.py             # GCP version of the IP geocoding script
 ├── requirements.txt           # List of dependencies for both versions
 ├── README.md                  # This README file
 ├── ip_addresses.csv           # Example input CSV file for local testing
-\```
 
 ## License
 
